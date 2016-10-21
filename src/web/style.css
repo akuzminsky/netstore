@@ -1,0 +1,71 @@
+Body {
+ scrollbar-face-color:silver;
+ scrollbar-shadow-color:white;
+ scrollbar-highlight-color:white;
+ scrollbar-3dlight-color:white;
+ scrollbar-darkshadow-color:white;
+ scrollbar-track-color:white;
+ scrollbar-arrow-color:white;
+ COLOR: black; FONT-FAMILY: verdana; FONT-SIZE: 12px
+}
+TD {
+	COLOR: black; FONT-FAMILY: verdana; FONT-SIZE: 12px 
+}
+
+caption {
+	COLOR: black; FONT-FAMILY: verdana; FONT-SIZE: 14px 
+}
+
+TH {
+	COLOR: black; FONT-FAMILY: verdana; FONT-SIZE: 11px 
+}
+
+.tr1 {
+	COLOR: white; FONT-FAMILY: verdana; FONT-SIZE: 12px
+}
+TD.text {
+	PADDING-BOTTOM: 8px; PADDING-LEFT: 12px; PADDING-RIGHT: 12px; PADDING-TOP: 7px
+}
+A {
+	COLOR: #565656
+}
+A:visited {
+	COLOR: #565656
+}
+A:active {
+	COLOR: #565656
+}
+A:hover {
+	COLOR: darkred
+}
+.a1
+{
+    COLOR: red;
+}
+.textform {
+	BACKGROUND: #f0f0f0; BORDER-BOTTOM: black 1px solid; BORDER-LEFT: black 1px solid; BORDER-RIGHT: black 1px solid; BORDER-TOP: black 1px solid; FONT-FAMILY:  sans-serif; FONT-SIZE: 12px
+}
+
+input {
+	BACKGROUND: #f0f0f0; BORDER-BOTTOM: black 1px solid; BORDER-LEFT: black 1px solid; BORDER-RIGHT: black 1px solid; BORDER-TOP: black 1px solid; FONT-FAMILY:  sans-serif; FONT-SIZE: 12px
+}
+TEXTAREA {
+	BACKGROUND: #f0f0f0; BORDER-BOTTOM: black 1px solid; BORDER-LEFT: black 1px solid; BORDER-RIGHT: black 1px solid; BORDER-TOP: black 1px solid; FONT-FAMILY:  sans-serif; FONT-SIZE: 12px
+}
+
+select {
+	BACKGROUND: #f0f0f0; BORDER-BOTTOM: black 1px solid; BORDER-LEFT: black 1px solid; BORDER-RIGHT: black 1px solid; BORDER-TOP: black 1px solid; FONT-FAMILY:  sans-serif; FONT-SIZE: 12px
+}
+
+.button {
+	BACKGROUND: #f0f0f0; BORDER-BOTTOM: black 1px solid; BORDER-LEFT: black 1px solid; BORDER-RIGHT: black 1px solid; BORDER-TOP: black 1px solid; FONT-FAMILY: verdana; FONT-SIZE: 10px; FONT-WEIGHT: bold; HEIGHT: 20px
+}
+
+.button_red {
+	BACKGROUND: #f00000; BORDER-BOTTOM: black 1px solid; BORDER-LEFT: black 1px solid; BORDER-RIGHT: black 1px solid; BORDER-TOP: black 1px solid; FONT-FAMILY: verdana; FONT-SIZE: 10px; FONT-WEIGHT: bold; HEIGHT: 20px
+}
+
+.button_green {
+	BACKGROUND: #00f000; BORDER-BOTTOM: black 1px solid; BORDER-LEFT: black 1px solid; BORDER-RIGHT: black 1px solid; BORDER-TOP: black 1px solid; FONT-FAMILY: verdana; FONT-SIZE: 10px; FONT-WEIGHT: bold; HEIGHT: 20px
+}
+
